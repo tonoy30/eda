@@ -1,3 +1,1 @@
-# ai-assignment
-
-## all of the notebook in src folder
+# Exploratory Data Analysis on various data set
